@@ -152,7 +152,7 @@ const PRODUCTS = [
     fabric: "Katan silk, peacock motif border",
     price: 2000,
     salePercent: 0,
-    image: "images/sea-green-peacock-paithani.jpg",
+    image: "sea-green-peacock-paithani.jpg",
     badge: "New",
     description: "All-over peacock pair Paithani in katan silk. Price excludes shipping.",
   },
